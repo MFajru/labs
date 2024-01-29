@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "firstName": "Joseph",
+      "middleName": "Wasik"
+    },
+    {
+      "id": 3,
+      "firstName": "Fernando",
+      "middleName": "LabsBootcamp"
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 5
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 6
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 7
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 8
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 9
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 10
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 11
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 12
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 13
+    },
+    {
+      "firstName": "Fernando",
+      "middleName": "Labs",
+      "id": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to eat"
+    },
+    {
+      "id": 2,
+      "title": "How to take a shower"
+    }
+  ]
+}
